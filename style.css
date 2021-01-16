@@ -207,6 +207,7 @@ body {
 .card .call-btn button {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 
   color: inherit;
   font: inherit;
